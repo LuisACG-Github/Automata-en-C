@@ -1,2 +1,2 @@
 # Demo
-Curso Práctico de Frontend Developer
+Autómata creado en C++
